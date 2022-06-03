@@ -4,11 +4,11 @@ Hi 👋 My name is Emir Küçükosman
 Full Stack Developer
 --------------------
 
-I've started development with HTML, CSS, JS and PHP 4 years ago and now I've been building full stack web applications with modern JavaScript frameworks/libraries for over 2 years. Since the rise of crypto space I started building NFT minting sites, Solidity contracts and other web3 related applications for individual customers and some organizations.
+I've started development with HTML, CSS, JS and PHP at 14 years old and now I've been building full stack web applications with modern JavaScript frameworks/libraries for over 2 years. Since the rise of crypto space I also started building NFT minting sites, Solidity contracts and other web3 related applications for individual customers and some organizations as well.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [m.emirkucukosman@gmail.com](mailto:m.emirkucukosman@gmail.com)
-* 🧠  I'm learning @solana-labs
+* 🧠  I'm learning Micro Front-Ends
 * 🤝  I'm open to collaborating on anything that includes full stack web development and maybe some web3 :)
 
 ### Skills
