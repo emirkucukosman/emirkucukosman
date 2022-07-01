@@ -4,7 +4,10 @@ Hi 👋 My name is Emir Küçükosman
 Full Stack Developer
 --------------------
 
-I've started development with HTML, CSS, JS and PHP at 14 years old and now I've been building full stack web applications with modern JavaScript frameworks/libraries for over 2 years. Since the rise of crypto space I also started building NFT minting sites, Solidity contracts and other web3 related applications for individual customers and some organizations as well.
+Hey there, I am a Full-Stack Web Developer specializing on JavaScript frameworks and libraries. 
+I have built/maintained enterprise level dashboards, business automations, web3 related apps, API integrations, small business websites and other various web applications.
+Since the rise of crypto space I also built some NFT minting sites, Solidity contracts and other web3 related applications for individual customers and some organizations as well.
+Currently I am building Full-Stack Shopify applications for merchants on the Shopify App Store.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [m.emirkucukosman@gmail.com](mailto:m.emirkucukosman@gmail.com)
@@ -31,10 +34,8 @@ I've started development with HTML, CSS, JS and PHP at 14 years old and now I've
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
 <a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
