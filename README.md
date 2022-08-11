@@ -4,7 +4,7 @@ Hi 👋 My name is Emir Küçükosman
 Full Stack Developer
 --------------------
 
-Hey there, I am a Full-Stack Web Developer who loves to build products that makes people lives easier.
+Hey there, I am a Full-Stack Web Developer with 2 years of experience who loves to build products that makes people lives easier.
 I am specializing on JavaScript frameworks and libraries.
 I am mostly building Shopify applications, enterprise level dashboards, business automations, API integrations and small business websites.
 Since the rise of crypto space I also built some NFT minting sites, Solidity contracts and other web3 related applications for individual customers and some organizations as well.
