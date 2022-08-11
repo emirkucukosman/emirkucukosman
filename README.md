@@ -8,7 +8,7 @@ Hey there, I am a Full-Stack Web Developer who loves to build products that make
 I am specializing on JavaScript frameworks and libraries.
 I am mostly building Shopify applications, enterprise level dashboards, business automations, API integrations and small business websites.
 Since the rise of crypto space I also built some NFT minting sites, Solidity contracts and other web3 related applications for individual customers and some organizations as well.
-Currently I am building Full-Stack Shopify applications on the Shopify App Store.
+Currently I am building Full-Stack Shopify applications on the Shopify App Store and learning more about micro front-ends and Vue.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [m.emirkucukosman@gmail.com](mailto:m.emirkucukosman@gmail.com)
