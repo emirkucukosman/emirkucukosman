@@ -4,11 +4,11 @@ Hi 👋 My name is Emir Küçükosman
 Full Stack Developer
 --------------------
 
-Hey there, I am a Full-Stack Web Developer with 2 years of experience who loves to build products that makes people lives easier.
-I am specializing on JavaScript frameworks and libraries.
-I am mostly building Shopify applications, enterprise level dashboards, business automations, API integrations and small business websites.
-Since the rise of crypto space I also built some NFT minting sites, Solidity contracts and other web3 related applications for individual customers and some organizations as well.
-Currently I am building Full-Stack Shopify applications on the Shopify App Store and learning more about micro front-ends and Vue.
+Hi there, I am a Front-End oriented Full-Stack Web Developer with 2 years of experience who loves to build products that people use and enjoy while making out the most of them. 
+I am highly experienced in building complex, secure and high performant front-end web applications with TypeScript, React and Next.js.
+I am Mid level experienced in building back-end services that can serve thousand of requests with Node.js, Express.js and NestJS
+I also love to build Web3 applications and Solidity contracts
+Currently learning more about micro front-ends, Vue and RedwoodJS
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [m.emirkucukosman@gmail.com](mailto:m.emirkucukosman@gmail.com)
